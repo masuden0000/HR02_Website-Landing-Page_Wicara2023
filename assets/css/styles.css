@@ -593,42 +593,42 @@ video {
 .carousel .card #img1 img {
   background: url("../img/membaca.gif");
   background-size: 100px;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
 }
 
 .carousel .card #img2 img {
   background: url("../img/kosakata.gif");
   background-size: 140px;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
 }
 
 .carousel .card #img3 img {
   background: url("../img/sound.gif");
   background-size: 100px;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
 }
 
 .carousel .card #img4 img {
   background: url("../img/tebak.gif");
   background-size: 100px;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
 }
 
 .carousel .card #img5 img {
   background: url("../img/ekspresi.gif");
   background-size: 100px;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
 }
 
 .carousel .card #img6 img {
   background: url("../img/berpikir.gif");
   background-size: 100px;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
 }
 
