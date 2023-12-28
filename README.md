@@ -46,7 +46,7 @@ Contohnya:
 Berikut adalah sketsa dari struktur website yang dapat dijadikan referensi untuk mengerjakan submission. tetapi tidak kami diwajibkan.![Screenshot](https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:a1d316319803898031089af9af77791e20230623094410.png)
 ## Demo
 
-https://masuden0000.github.io/Wicara2023/
+[https://masuden0000.github.io/Wicara2023/](https://masuden0000.github.io/HR02_Website-Landing-Page_Wicara2023/)
 
 
 ## Run Locally
