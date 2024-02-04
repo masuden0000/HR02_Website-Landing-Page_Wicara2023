@@ -411,6 +411,7 @@ img {
   order: 3;
   justify-self: center;
   margin-top: 50px;
+
 }
 
 .home__footer h1 {
@@ -421,14 +422,15 @@ img {
   justify-content: center
 }
 
-.home__footer div {
+.home__footer .images__group {
   display: flex;
   align-items: center;
+  background-color: var(--constant-color);
+  padding: 0px 10px 0px 10px;
+  margin-top: 5px;
+  border-radius: 10px;
 }
 
-.home__footer img {
-  margin: 0 var(--mb-1);
-}
 
 /*========== BUTTONS ==========*/
 
